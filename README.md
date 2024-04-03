@@ -1,2 +1,3 @@
-# simple-template
-A simple GitHub template repository
+# Simple Template Repository
+
+A simple GitHub template repository.
